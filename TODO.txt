@@ -1,0 +1,3 @@
+1.Define a proper folder structure that can distinguish between dummy and actual service
+2. Research what does thes number fields (messages.IntegerField(2)) does
+3.Find a way to pass the default arguments to parameters in getAllCourseList method in our dummy service.
